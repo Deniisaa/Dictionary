@@ -1,0 +1,15 @@
+﻿Apple|A fruit with red or green skin and a rounded shape.|Fruit|C:\Users\Acasa\source\repos\Dictionary\Dictionary\apple.jpg
+Apricot|A small, yellowish-orange fruit with a smooth skin and a large pit.|Fruit|C:\Users\Acasa\source\repos\Dictionary\Dictionary\apricot.jpg
+Banana|A long, curved fruit with a yellow skin and soft, sweet flesh.|Fruit|C:\Users\Acasa\source\repos\Dictionary\Dictionary\banana.jpg
+Car|A four-wheeled vehicle that is usually powered by an engine.|Vehicle|C:\Users\Acasa\source\repos\Dictionary\Dictionary\car.jpg
+Computer|An electronic device that processes data.|Technology|C:\Users\Acasa\source\repos\Dictionary\Dictionary\computer.jpg
+Book|A written or printed work consisting of pages.|Literature|C:\Users\Acasa\source\repos\Dictionary\Dictionary\book.jpg
+Bibliography|A list of books or other works referred to in a scholarly work.|Literature|default.png
+Dog|A domesticated mammal typically known for loyalty and companionship.|Animal|C:\Users\Acasa\source\repos\Dictionary\Dictionary\dog.jpg
+Bear|A large, heavy mammal with thick fur and a short tail, often found in forests.|Animal|C:\Users\Acasa\source\repos\Dictionary\Dictionary\bear.jpg
+Antelope|A fast-running African mammal with long, pointed horns.|Animal|C:\Users\Acasa\source\repos\Dictionary\Dictionary\antelope.jpg
+Cheetah|A large African cat known for its speed and distinctive spotted coat.|Animal|C:\Users\Acasa\source\repos\Dictionary\Dictionary\cheetah.jpg
+Mercury|The smallest and innermost planet in the Solar System, named after the Roman deity Mercury.|Planet|C:\Users\Acasa\source\repos\Dictionary\Dictionary\mercury.jpg
+Mars|The fourth planet from the Sun and the second-smallest planet in the Solar System, named after the Roman god of war.|Planet|C:\Users\Acasa\source\repos\Dictionary\Dictionary\mars.jpg
+
+
